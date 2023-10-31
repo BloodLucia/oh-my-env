@@ -33,5 +33,3 @@ RUN git config --global core.editor "code --wait"; \
     git config --global init.defaultBranch master; \
     git config --global user.name "Kalougata"; \
     git config --global user.email "kalougata@111.com"
-
-WORKDIR /workspace
